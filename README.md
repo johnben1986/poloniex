@@ -16,8 +16,3 @@ Poloniex Trading bot
 6. When all setup hit "Start" button to start the software
 
 Stop button will stop the software from trading, You can view logs button to what is happening in the trading.
-
-Pelase donate if this is helpful to you
-
-BTC Address: 13Yy5N66F2qdiwxfvgqRHfMkiCtUF5VzSb
-ETH Address: 0x7E7e7BBBbCe16CFb1C149bB4AAe5006aaE62E8Be
