@@ -17,8 +17,6 @@ Poloniex Trading bot
 
 Stop button will stop the software from trading, You can view logs button to what is happening in the trading.
 
-If you have any question regarding this bot, please contact ltbesitulo@gmail.com.
-
 Pelase donate if this is helpful to you
 
 BTC Address: 13Yy5N66F2qdiwxfvgqRHfMkiCtUF5VzSb
